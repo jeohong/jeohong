@@ -3,7 +3,7 @@
 ### 2021.05 ~ 42Seoul Cadet 
 [![jeohong's 42 stats](https://badge42.herokuapp.com/api/stats/jeohong)](https://github.com/JaeSeoKim/badge42)
 
-[![jeohong's github stats](https://github-readme-stats.vercel.app/api?username=jeohong)](https://github.com/anuraghazra/github-readme-stats)
+[![jeohong's github stats](https://github-readme-stats.vercel.app/api?username=jeohong&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
