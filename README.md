@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 FE developer 홍정민
+# 🧑🏻‍💻 iOS developer 홍정민
 
 ### 2021.05 ~ 42Seoul Cadet 
 [![jeohong's 42 stats](https://badge42.herokuapp.com/api/stats/jeohong)](https://github.com/JaeSeoKim/badge42)
