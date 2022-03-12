@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 iOS developer 홍정민
 
-### 2021.05 ~ 42Seoul Cadet 
-[![jeohong's 42 stats](https://badge42.herokuapp.com/api/stats/jeohong)](https://github.com/JaeSeoKim/badge42)
-
+### 2021.05 ~ 2022.03 42Seoul Cadet 
+### 2022.03 ~ 2022.12 Apple Academy 1st generation trainee
+### Git status
 [![jeohong's github stats](https://github-readme-stats.vercel.app/api?username=jeohong&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
