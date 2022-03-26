@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 iOS developer 홍정민
 
 ### 2021.05 ~ 2022.03 42Seoul Cadet 
-### 2022.03 ~ 2022.12 Apple Academy 1st generation trainee
+### 2022.03 ~ 2022.12 Apple Academy 1st generation Jr. Learner
 ### Git status
 [![jeohong's github stats](https://github-readme-stats.vercel.app/api?username=jeohong&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
