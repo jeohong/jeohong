@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Jeongmin Hong
-- I am currently studying iOS at Apple Developer Academy @ POSTEC.
+- 2023.03 ~ 현재 (주)미디어토마토 iOS Developer
 
 ## 📚 History
 - 2021.05 ~ 2022.03 42Seoul 4th generation Cadet 
