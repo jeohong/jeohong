@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Jeongmin Hong
-- 2023.03 ~ 현재 미디어토마토 iOS Developer
+- 2023.03 ~ 2023.08 미디어토마토 iOS Developer
 
 ## 📚 History
 - 2021.05 ~ 2022.03 42Seoul 4th generation Cadet 
