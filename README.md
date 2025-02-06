@@ -15,7 +15,7 @@
 
 ## [💻 Blog](https://ai-hong.tistory.com)
 
-## [📄 Resume](https://pouncing-respect-d72.notion.site/09768df4a6db41b4adc808e05697497c)
+## [📄 Resume](https://chikong.notion.site/09768df4a6db41b4adc808e05697497c)
 
 ## 📞 Contact
 - jeohong59@gamil.com
