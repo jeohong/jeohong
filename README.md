@@ -1,7 +1,6 @@
 # 🧑🏻‍💻 Jeongmin Hong
-- 2024.02 ~ current 토마토집통 iOS Developer
-- 2023.07 ~ 2023.08 토마토집통 iOS Developer
-- 2023.03 ~ 2023.07 미디어토마토 iOS Developer
+- 2024.02 ~ current 토마토그룹 iOS Developer
+- 2023.03 ~ 2023.08 토마토그룹 iOS Developer
 
 ## 📚 History
 - 2021.05 ~ 2022.03 42Seoul 4th generation Cadet 
